@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagrOne23
-- 👀 I’m interested in C# and Phyton
-- 🌱 I’m currently learning C# and PHP
+- 👀 I’m interested in C# and HTML
+- 🌱 I’m currently learning C# and PHP as well as HTML and CSS
 
 
 <!---
